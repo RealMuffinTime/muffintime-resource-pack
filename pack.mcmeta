@@ -1,6 +1,13 @@
 {
-  "pack": {
-    "pack_format": 8,
-    "description": "\u00A76\u00A7lThe MuffinTime Minecraft\u00A7r \nCredits in resource files \n by RealMuffinTime, by MetallicCherry, by CapsLock AKA capsey_"
-  } 
+	"pack": {
+		"pack_format": 15,
+		"description": "§6§lThe MuffinTime Minecraft§r \nCredits in resource files \n by RealMuffinTime, by MetallicCherry, by CapsLock AKA capsey_ \n https://emn178.github.io/online-tools/sha1_checksum.html"
+	},
+	"filter": {
+		"block": [
+			{
+				"path": "models\\/item\\/totem_of_undying.json"
+			}
+		]
+	}
 }

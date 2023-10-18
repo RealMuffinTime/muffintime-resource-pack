@@ -1,6 +1,10 @@
 {
-  "item.minecraft.totem_of_undying": "UNO Reverse Card",
-  "subtitles.item.totem.use": "Play direction reversed",
-  "advancements.adventure.totem_of_undying.title": "NO YOU!",
-  "advancements.adventure.totem_of_undying.description": "Use a UNO Reverse Card to reverse direction of play",
+	"language.name": "DEnglish",
+	"language.region": "United Fates",
+	"language.code": "en_us",
+	"item.minecraft.totem_of_undying": "UNO Reverse Card",
+	"subtitles.item.totem.use": "Play direction reversed",
+	"advancements.adventure.totem_of_undying.title": "NO YOU!",
+	"advancements.adventure.totem_of_undying.description": "Use a UNO Reverse Card to reverse direction of play",
+	"container.furnace": "DOOOOOOOG"
 }
