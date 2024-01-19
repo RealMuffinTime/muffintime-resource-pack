@@ -1,6 +1,17 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
+"parent": "minecraft:item/generated",
+"textures":
+    {
     "layer0": "minecraft:item/totem_of_undying"
-  }
+    },
+"overrides":
+    [
+        {
+        "model": "item/totem_of_ahegao",
+        "predicate":
+            {
+            "custom_model_data": 69
+            }
+        }
+    ]
 }
