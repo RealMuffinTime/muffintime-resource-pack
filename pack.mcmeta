@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "§6§lThe MuffinTime Minecraft§r \n Credits in resource files \n by RealMuffinTime, by _zombiehunter, by CapsLock AKA capsey_"
+    "pack_format": 34,
+    "description": "§6§lThe MuffinTime Minecraft§r\nCredits in resource files\nby RealMuffinTime, by _zombiehunter, by capsey_"
   },
   "filter": {
     "block": [
