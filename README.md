@@ -29,8 +29,12 @@ It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTim
 
 8. Custom pumkin head eXPerience.
 
+9. Golden carrots are tasty pizza slices.
+
 ## Credits
 
 * created by RealMuffinTime
-* using textures by _zombiehunter (RainbowXP Bar)
-* using textures by capsey_ (UNO Reverse Card)
+* using textures by _zombiehunter (RainbowXP bar)
+* using textures by capsey_ (UNO reverse card)
+* using sounds from Mojang (Old Minecraft damage sounds)
+* using textures by 1Pizza_Slice (Pizza slice)
