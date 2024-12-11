@@ -1,3 +1,11 @@
+### Version [v4.0.1](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.1) - 2024-12-11
+###### New stuff
+- Added pizza slice for golden carrot texture
+###### Changes
+- Improved README.md and other text files
+- Updated resourcepack icon
+- Support Minecraft version `1.21 - 1.21.1`
+
 ### Version [v4.0.0](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.0) - 2024-02-03
 ###### New stuff
 - Added KFC bucket textures for cooked chickens
