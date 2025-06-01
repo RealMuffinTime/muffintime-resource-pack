@@ -1,7 +1,8 @@
 # The MuffinTime Resourcepack
 
-This texture pack has some neat features and fun customizations. For Minecraft version `1.21–1.21.1`.  
-It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTime/muffintime-data-pack) to be able to dynamically change totem textures.
+This texture pack has some neat features and fun customizations.  
+It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTime/muffintime-data-pack) to be able to dynamically change totem textures.  
+For Minecraft version `1.21-1.21.1`.
 
 ## Features
 
@@ -33,8 +34,8 @@ It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTim
 
 ## Credits
 
-* created by RealMuffinTime
-* using textures by _zombiehunter (RainbowXP bar)
-* using textures by capsey_ (UNO reverse card)
-* using sounds from Mojang (Old Minecraft damage sounds)
-* using textures by 1Pizza_Slice (Pizza slice)
+* Created by RealMuffinTime
+* Using textures by _zombiehunter (RainbowXP bar)
+* Using textures by capsey_ (UNO reverse card)
+* Using sounds from Mojang (Old Minecraft damage sounds)
+* Using textures by 1Pizza_Slice (Pizza slice)
