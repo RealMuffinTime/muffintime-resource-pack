@@ -1,3 +1,13 @@
+## Version [v4.0.2](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.2) - 2025-06-01
+### New stuff
+- Added spacex falcon as firework rocket texture
+- Added a release workflow
+### Changes
+- Renamed VERSIONS.md to CHANGELOG.md
+- Updated CHANGELOG.md
+- Updated README.md
+- Support Minecraft version `1.21.2 - 1.21.3`
+
 ## Version [v4.0.1](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.1) - 2024-12-11
 ### New stuff
 - Added pizza slice for golden carrot texture
