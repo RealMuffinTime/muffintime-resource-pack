@@ -6,7 +6,7 @@
 - Renamed VERSIONS.md to CHANGELOG.md
 - Updated CHANGELOG.md
 - Updated README.md
-- Support Minecraft version `1.21.2 - 1.21.3`
+- Support Minecraft version `1.21.2-1.21.3`
 
 ## Version [v4.0.1](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.1) - 2024-12-11
 ### New stuff
@@ -14,7 +14,7 @@
 ### Changes
 - Improved README.md and other text files
 - Updated resourcepack icon
-- Support Minecraft version `1.21 - 1.21.1`
+- Support Minecraft version `1.21-1.21.1`
 
 ## Version [v4.0.0](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.0) - 2024-02-03
 ### New stuff
@@ -36,7 +36,10 @@
 - Add UNO reverse card for totem texture
 - Add English language customizations for totem, furnace and language selectors
 - Add inital MuffinTime branding
+### Changes
+- Support Minecraft version `1.20-1.20.1`
 
 ## Version [v1.0.0](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v1.0.0) - 2021-05-18
 ### New stuff
 - Base Rainbow XP Bar, made by MetallicCherry
+- Support Minecraft version `1.9-1.10.2`
