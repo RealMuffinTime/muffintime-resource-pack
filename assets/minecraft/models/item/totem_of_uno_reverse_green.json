@@ -2,6 +2,6 @@
 "parent": "minecraft:item/generated",
 "textures":
     {
-    "layer0": "minecraft:item/totem_of_ahegao"
+    "layer0": "minecraft:item/totem_of_uno_reverse_green"
     }
 }

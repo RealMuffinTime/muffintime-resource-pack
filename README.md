@@ -5,7 +5,7 @@
 
 This texture pack has some neat features and fun customizations.  
 It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTime/muffintime-data-pack) to be able to dynamically change totem textures.  
-For Minecraft version `1.21.2-1.21.3`.
+For Minecraft version `1.21.4`.
 
 ## Features
 
@@ -23,11 +23,11 @@ For Minecraft version `1.21.2-1.21.3`.
 
    | Custom item texture for totem    | custom_model_data |
    | -------------------------------- | ----------------- |
-   | UNO Reverse Card Green           | 0                 |
-   | UNO Reverse Card Blue            | 1                 |
-   | UNO Reverse Card Red             | 2                 |
-   | UNO Reverse Card Yellow          | 3                 |
-   | Animated UNO Reverse Card Ahegao | 69                |
+   | UNO Reverse Card Green           | green             |
+   | UNO Reverse Card Blue            | blue              |
+   | UNO Reverse Card Red             | red               |
+   | UNO Reverse Card Yellow          | yellow            |
+   | Animated UNO Reverse Card Ahegao | ahegao            |
 
 7. The cooked chickens texture is a KFC bucket.
 
@@ -50,3 +50,12 @@ Currently are English and German supported.
 * Using textures by capsey_ (UNO reverse card)
 * Using sounds from Mojang (Old Minecraft damage sounds)
 * Using textures by 1Pizza_Slice (Pizza slice)
+
+## TODOs
+
+- elytra custom texture changeable via command?
+- gui sprites
+- i am steve / craftingtable
+- custom song for music disc music_disc.mov
+- pack overview images to README.md
+- change firework particles to one representing rocket exhaust

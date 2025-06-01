@@ -1,0 +1,47 @@
+{
+    "model": {
+      "type": "select",
+      "property": "custom_model_data",
+      "fallback": {
+        "type": "model",
+        "model": "item/totem_of_uno_reverse_green"
+      },
+      "cases": [
+        {
+          "when": "ahegao",
+          "model": {
+            "type": "model",
+            "model": "item/totem_of_uno_reverse_ahegao"
+          }
+        },
+        {
+          "when": "blue",
+          "model": {
+            "type": "model",
+            "model": "item/totem_of_uno_reverse_blue"
+          }
+        },
+        {
+          "when": "green",
+          "model": {
+            "type": "model",
+            "model": "item/totem_of_uno_reverse_green"
+          }
+        },
+        {
+          "when": "red",
+          "model": {
+            "type": "model",
+            "model": "item/totem_of_uno_reverse_red"
+          }
+        },
+        {
+          "when": "yellow",
+          "model": {
+            "type": "model",
+            "model": "item/totem_of_uno_reverse_yellow"
+          }
+        }
+      ]
+    }
+  }
