@@ -34,7 +34,7 @@ jobs:
           game-versions: "${{env.MINECRAFT_VERSION}}"
           loaders: minecraft
           game-version-filter: releases
-          files: "muffintime-resource-pack-${{env.VERSION}}.jar"
+          files: "muffintime-resource-pack-${{env.VERSION}}.zip"
 
           # Config for Modrinth
           modrinth-id: vpgX4W3y
