@@ -10,11 +10,11 @@ For Minecraft version `1.21-1.21.1`.
 
 2. Furnaces have the name `DOOOOOOOG`.
 
-3. The totem texture is a green UNO Reverse Card.
+3. The cookie texture is the MuffinTime logo.
 
-4. The text of the totem has been adjusted to be fitting for a UNO Reverse Card.
+4. The totem texture is a green UNO Reverse Card.
 
-5. The cookie texture is the MuffinTime logo.
+5. The text of the totem has been adjusted to be fitting for a UNO Reverse Card.
 
 6. A animated ahegao and other diffrent totems, it applies to totems which have the NBT tag `custom_model_data` with a specific value assigned, values are listed in the table.
 
@@ -26,11 +26,19 @@ For Minecraft version `1.21-1.21.1`.
    | UNO Reverse Card Yellow          | 3                 |
    | Animated UNO Reverse Card Ahegao | 69                |
 
-7. The cooked chickens texture is a KFC bucket. 
+7. The cooked chickens texture is a KFC bucket.
 
-8. Custom pumkin head eXPerience.
+8. Use old Minecraft damage sounds.
 
-9. Golden carrots are tasty pizza slices.
+9. Custom pumkin head eXPerience.
+
+10. Golden carrots are tasty pizza slices.
+
+11. Firework rockets are SpaceX rockets.
+
+## Languages
+
+Currently are English and German supported.
 
 ## Credits
 
