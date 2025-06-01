@@ -1,3 +1,7 @@
+## Version [v4.0.4](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.4) - 2025-06-01
+### Changes
+- Support Minecraft version `1.21.5`
+
 ## Version [v4.0.3](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.3) - 2025-06-01
 ### Changes
 - Move to new custom_model_data format
