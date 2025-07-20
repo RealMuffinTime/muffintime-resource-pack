@@ -4,7 +4,7 @@
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/vpgX4W3y?color=blue&logo=modrinth&style=for-the-badge)](https://modrinth.com/resourcepack/muffintime-resource-pack)
 
 This texture pack has some neat features and fun customizations.  
-It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTime/muffintime-data-pack) to be able to dynamically change totem textures.  
+It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTime/muffintime-data-pack) to be able to dynamically change totem textures.
 
 ## Features
 
