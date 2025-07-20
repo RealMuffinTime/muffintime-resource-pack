@@ -5,7 +5,6 @@
 
 This texture pack has some neat features and fun customizations.  
 It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTime/muffintime-data-pack) to be able to dynamically change totem textures.  
-For Minecraft version `1.21.5`.
 
 ## Features
 
