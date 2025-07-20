@@ -1,3 +1,7 @@
+## Version [v4.0.6](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.6) - 2025-07-20
+### Changes
+- Support Minecraft version `1.21.7-1.21.8`
+
 ## Version [v4.0.5](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.5) - 2025-07-20
 ### Changes
 - Support Minecraft version `1.21.6`
