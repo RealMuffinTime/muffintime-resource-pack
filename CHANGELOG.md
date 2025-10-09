@@ -1,3 +1,12 @@
+## Version [v4.1.0](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.1.0) - 2025-10-09
+### New Stuff
+- Add rainbow locator bar
+- Add rainbow xp bar background
+- Add image overview to README.md
+- Replace Aria Math music with Frank Riddle's remix
+### Changes
+- Support Minecraft version `1.21.9-1.21.10`
+
 ## Version [v4.0.6](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.0.6) - 2025-07-20
 ### Changes
 - Support Minecraft version `1.21.7-1.21.8`
