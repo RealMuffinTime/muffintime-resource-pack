@@ -44,6 +44,8 @@ It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTim
 
 11. Firework rockets are SpaceX rockets.
 
+12. Replace Aria Math creative mode music with [Frank Riddle Remix](https://www.youtube.com/watch?v=Vlh0BWUMdH0)
+
 ## Languages
 
 Currently are English and German supported.
@@ -55,11 +57,11 @@ Currently are English and German supported.
 * Using textures by capsey_ (UNO reverse card)
 * Using sounds from Mojang (Old Minecraft damage sounds)
 * Using textures by 1Pizza_Slice (Pizza slice)
+* Using sounds from Frank Riddle (Aria Math Remix)
 
 ## TODOs
 
-- elytra custom texture changeable via command?
+- elytra custom texture changeable via command
 - gui sprites
 - i am steve / craftingtable
-- custom song for music disc music_disc.mov
 - change firework particles to one representing rocket exhaust
