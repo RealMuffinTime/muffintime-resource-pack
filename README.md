@@ -8,7 +8,7 @@ It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTim
 
 ## Features
 
-1. Rainbow XP Bar.
+1. Rainbow xp and locator bar.
 
 2. Furnaces have the name `DOOOOOOOG`.
 
