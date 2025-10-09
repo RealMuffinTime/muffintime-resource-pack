@@ -2,9 +2,15 @@
 
 [![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/vpgX4W3y?logo=modrinth&style=for-the-badge)](https://modrinth.com/resourcepack/muffintime-resource-pack)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/vpgX4W3y?color=blue&logo=modrinth&style=for-the-badge)](https://modrinth.com/resourcepack/muffintime-resource-pack)
+<img align="right" src="pack.png" alt="The MuffinTime Resourcepack Icon">
 
 This texture pack has some neat features and fun customizations.  
 It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTime/muffintime-data-pack) to be able to dynamically change totem textures.
+
+<p align="middle">
+  <img src=".img/overview_static.png" width="49%" alt="The MuffinTime Resourcepack static overview" />
+  <img src=".img/overview_dynamic.webp" width="49%" alt="The MuffinTime Resourcepack dynamic overview" />
+</p>
 
 ## Features
 
@@ -32,7 +38,7 @@ It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTim
 
 8. Use old Minecraft damage sounds.
 
-9. Custom pumkin head eXPerience.
+9. Custom carved pumkin head eXPerience.
 
 10. Golden carrots are tasty pizza slices.
 
@@ -56,5 +62,4 @@ Currently are English and German supported.
 - gui sprites
 - i am steve / craftingtable
 - custom song for music disc music_disc.mov
-- pack overview images to README.md
 - change firework particles to one representing rocket exhaust
