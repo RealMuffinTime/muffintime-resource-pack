@@ -1,8 +1,8 @@
 {
   "pack": {
-    "min_format": 69,
-    "max_format": 69,
-    "description": "§6§lThe MuffinTime Minecraft§r\nCredits in resource files\nby RealMuffinTime, by _zombiehunter, by capsey_, by Mojang, by 1Pizza_Slice"
+    "min_format": 75,
+    "max_format": 75,
+    "description": "§6§lThe MuffinTime Minecraft§r\nCredits in resource files\nby RealMuffinTime, by _zombiehunter, by capsey_, by Mojang, by 1Pizza_Slice, Frank Riddle"
   },
   "filter": {
     "block": [

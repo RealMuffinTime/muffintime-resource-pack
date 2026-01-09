@@ -41,6 +41,13 @@
             "type": "model",
             "model": "item/totem_of_uno_reverse_yellow"
           }
+        },
+        {
+          "when": "cosmic",
+          "model": {
+            "type": "model",
+            "model": "item/totem_of_uno_reverse_cosmic"
+          }
         }
       ]
     }
