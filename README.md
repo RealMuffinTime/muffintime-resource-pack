@@ -33,6 +33,7 @@ It is recommended to use [muffintime-data-pack](https://github.com/RealMuffinTim
    | UNO Reverse Card Red             | red               |
    | UNO Reverse Card Yellow          | yellow            |
    | Animated UNO Reverse Card Ahegao | ahegao            |
+   | Cosmic UNO Reverse Card          | cosmic            |
 
 7. The cooked chickens texture is a KFC bucket.
 
