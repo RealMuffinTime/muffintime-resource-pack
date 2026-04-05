@@ -1,3 +1,7 @@
+## Version [v4.2.1](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.2.1) - 2026-04-05
+### Changes
+- Support Minecraft version `26.1-26.1.1`
+
 ## Version [v4.2.0](https://github.com/RealMuffinTime/muffintime-resource-pack/releases/tag/v4.2.0) - 2026-01-09
 ### New Stuff
 - Add cosmic UNO reverse card
